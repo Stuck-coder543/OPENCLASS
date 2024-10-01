@@ -44,4 +44,3 @@ else:
       print("It seems like you didn't answer with yes or no. Try again!")
 
 
-      print("testing")
